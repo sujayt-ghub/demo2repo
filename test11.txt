@@ -1,8 +1,4 @@
 wegge
-<<<<<<< HEAD
 wedd
-hjfjfj
-=======
+hjfjf
 wed
-test2dem2:2:o
->>>>>>> 8a78e5899c0596e129c18776c7daaa44b7928b6a
